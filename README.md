@@ -1,10 +1,11 @@
-This project explores various applications of GPT for addressing data science challenges. GPT offers several functionalities that can be particularly useful in this context:
+# GPT Data Science Toolkit
 
-1. **Generating SQL Queries**: Convert screenshots of tables into SQL queries.
-2. **Database Design and Coding**: Create databases or write code based on voice instructions.
-3. **Report Generation**: Produce detailed reports from figures or diagrams.
-4. **Test Routine Creation**: Develop test routines for evaluating code or algorithms.
-5. **Code Enhancement**: Improve code readability and organization.
-6. **Technical Explanation**: Clarify and explain new technical concepts.
+This project explores various applications of GPT (Generative Pre-trained Transformer) to address data science challenges, leveraging the OpenAI API for enhanced functionality. The toolkit demonstrates how GPT can streamline and enhance multiple aspects of data science and programming:
 
-Each of these capabilities demonstrates how GPT can streamline and enhance various aspects of working with data and programming.
+-**'Generating SQL Queries:'** Converts screenshots of tables into SQL queries.
+-**'Database Design and Coding:'** Creates databases or writes code based on voice instructions.
+-**'Report Generation:'** Produces detailed reports from figures or diagrams.
+-**'Test Routine Creation:'** Develops test routines for evaluating code or algorithms.
+-**'Code Enhancement:'** Improves code readability and organization.
+-**'Technical Explanation:'** Clarifies and explains new technical concepts.
+Each capability showcases how GPT can be effectively utilized to simplify and improve tasks in data science and programming.
