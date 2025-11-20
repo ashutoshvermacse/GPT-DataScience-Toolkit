@@ -2,7 +2,7 @@
 
 Dieses Projekt demonstriert verschiedene Anwendungen von GPT (Generative Pre-trained Transformer) zur Lösung von Herausforderungen im Bereich Data Science und Programmierung, unter Einsatz der OpenAI API. Das Toolkit zeigt, wie GPT unterschiedliche Aufgaben effizienter, automatisierter und qualitativ hochwertiger gestalten kann.
 
-Anwendungsfälle von GPT im Data-Science-Kontext
+Anwendungsfälle von GPT im Data-Science-Kontext:-
 
 - **`Generierung von SQL-Abfragen:`** Umwandlung von Screenshots oder Tabellen in vollständige SQL-Abfragen.
 - **`Datenbankdesign und Programmierung:`** Erstellung von Datenbanken oder Code auf Basis von Spracheingaben.
